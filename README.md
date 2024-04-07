@@ -10,3 +10,15 @@ They can be converted to your needs.
 
 ## Installation
 1. Clone this repository to your computer:
+gh repo clone Rinkoff/MALValidIdScraper
+
+2. Install the dependencies
+ pip install jikanpy-v4
+
+
+## Usage
+1. Before you start using the script, make sure you have up-to-date versions of Python and pip installed on your computer.
+
+2. Run the script.
+
+#Note that the code searches for a large amount of data and may take time to fully execute.
