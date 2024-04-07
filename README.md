@@ -21,4 +21,4 @@ gh repo clone Rinkoff/MALValidIdScraper
 
 2. Run the script.
 
-#Note that the code searches for a large amount of data and may take time to fully execute.
+# Note that the code searches for a large amount of data and may take time to fully execute.
